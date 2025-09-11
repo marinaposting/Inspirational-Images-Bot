@@ -3,3 +3,4 @@ discord.py>=2.6.3
 google_api_python_client>=2.181.0
 google_auth_oauthlib>=1.2.2
 protobuf>=6.32.0
+asyncio>=4.0.0
